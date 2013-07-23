@@ -28,6 +28,12 @@ ricerca is a python implementation of the Feedback Adaptive Loop for Content-Bas
 
 * Leejay Wu, Christos Faloutsos, Katia P. Sycara, and Terry R. Payne. 2000. `FALCON: Feedback Adaptive Loop for Content-Based Retrieval <http://www.cs.cmu.edu/~christos/PUBLICATIONS/vldb2k-falcon.pdf>`_. In Proceedings of the 26th International Conference on Very Large Data Bases (VLDB '00), Amr El Abbadi, Michael L. Brodie, Sharma Chakravarthy, Umeshwar Dayal, Nabil Kamel, Gunter Schlageter, and Kyu-Young Whang (Eds.). Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 297-306.
 
+ricerca is one of the python packages that was developed for `OMERO.searcher <http://murphylab.web.cmu.edu/software/searcher/>`_, an open-source content-based image search tool for the cell and computational biology community.
+
+* Baek Hwan Cho, Ivan Cao-Berg, Jennifer Ann Bakal and Robert F. Murphy. 2012. `OMERO.searcher: content-based image search for microscope images <http://www.nature.com/nmeth/journal/v9/n7/full/nmeth.2086.html>`_. Nature Methods 9, 633-634.
+
+
+
 Dependencies
 ============
 ricerca uses the following python packages
