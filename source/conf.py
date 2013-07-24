@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'ricerca'
-copyright = u'2013, Ivan E. Cao-Berg, Jennifer Bakal and Robert F. Murphy'
+copyright = u'2013, Jennifer Bakal, Ivan E. Cao-Berg, Baek Hwan Cho and Robert F. Murphy'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -187,7 +187,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'ricerca.tex', u'ricerca Documentation',
-   u'Ivan E. Cao-Berg, Jennifer Bakal and Robert F. Murphy', 'manual'),
+   u'Jennifer Bakal, Ivan E. Cao-Berg, Baek Hwan Cho and Robert F. Murphy', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
