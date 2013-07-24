@@ -20,14 +20,5 @@ History
 Support
 -------
 
-*Website*: `http://murphylab.web.cmu.edu/software/ricerca
-<http://murphylab.web.cmu.edu/software/ricerca/>`_
-
-*Documentation*: `http://murphylab.web.cmu.edu/software/ricerca/docs
-<http://murphylab.web.cmu.edu/software/ricerca/docs/>`_
-
 *Source Code*: `http://github.com/icaoberg/ricerca
 <http://github.com/icaoberg/ricerca/>`_
-
-*Documentation Source Code*: `http://github.com/icaoberg/ricerca-docs
-<http://github.com/icaoberg/ricerca-docs/>`_
